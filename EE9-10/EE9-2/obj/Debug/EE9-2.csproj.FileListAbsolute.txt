@@ -1,0 +1,10 @@
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE9-2\bin\Debug\EE9-2.exe.config
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE9-2\bin\Debug\EE9-2.exe
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE9-2\bin\Debug\EE9-2.pdb
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE9-2\obj\Debug\EE9-2.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE9-2\obj\Debug\EE9_2.Form1.resources
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE9-2\obj\Debug\EE9_2.Properties.Resources.resources
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE9-2\obj\Debug\EE9-2.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE9-2\obj\Debug\EE9-2.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE9-2\obj\Debug\EE9-2.exe
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE9-2\obj\Debug\EE9-2.pdb

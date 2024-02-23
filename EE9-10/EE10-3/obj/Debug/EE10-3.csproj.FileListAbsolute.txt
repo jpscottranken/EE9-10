@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE10-3\bin\Debug\EE10-3.exe.config
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE10-3\bin\Debug\EE10-3.exe
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE10-3\bin\Debug\EE10-3.pdb
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE10-3\obj\Debug\EE10-3.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE10-3\obj\Debug\EE10_3.frmInvoiceTotal.resources
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE10-3\obj\Debug\EE10_3.Properties.Resources.resources
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE10-3\obj\Debug\EE10-3.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE10-3\obj\Debug\EE10-3.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE10-3\obj\Debug\EE10-3.exe
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE10-3\obj\Debug\EE10-3.pdb
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE10-3\obj\Debug\EE10_3.frmSalesTax.resources

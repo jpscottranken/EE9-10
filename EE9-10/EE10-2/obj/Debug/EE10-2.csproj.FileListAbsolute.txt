@@ -1,0 +1,10 @@
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE10-2\bin\Debug\EE10-2.exe.config
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE10-2\bin\Debug\EE10-2.exe
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE10-2\bin\Debug\EE10-2.pdb
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE10-2\obj\Debug\EE10-2.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE10-2\obj\Debug\EE10_2.frmLunchOrder.resources
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE10-2\obj\Debug\EE10_2.Properties.Resources.resources
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE10-2\obj\Debug\EE10-2.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE10-2\obj\Debug\EE10-2.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE10-2\obj\Debug\EE10-2.exe
+C:\Users\jpscott\Desktop\EE9-10\EE9-10\EE10-2\obj\Debug\EE10-2.pdb

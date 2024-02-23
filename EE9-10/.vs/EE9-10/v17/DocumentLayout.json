@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jpscott\\Desktop\\EE9-10\\EE9-10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8538181-E687-4493-B12E-4B48C4E81C97}|EE10-3\\EE10-3.csproj|c:\\users\\jpscott\\desktop\\ee9-10\\ee9-10\\ee10-3\\frminvoicetotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8538181-E687-4493-B12E-4B48C4E81C97}|EE10-3\\EE10-3.csproj|solutionrelative:ee10-3\\frminvoicetotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8538181-E687-4493-B12E-4B48C4E81C97}|EE10-3\\EE10-3.csproj|c:\\users\\jpscott\\desktop\\ee9-10\\ee9-10\\ee10-3\\frmsalestax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8538181-E687-4493-B12E-4B48C4E81C97}|EE10-3\\EE10-3.csproj|solutionrelative:ee10-3\\frmsalestax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8538181-E687-4493-B12E-4B48C4E81C97}|EE10-3\\EE10-3.csproj|c:\\users\\jpscott\\desktop\\ee9-10\\ee9-10\\ee10-3\\frmsalestax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8538181-E687-4493-B12E-4B48C4E81C97}|EE10-3\\EE10-3.csproj|solutionrelative:ee10-3\\frmsalestax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8538181-E687-4493-B12E-4B48C4E81C97}|EE10-3\\EE10-3.csproj|c:\\users\\jpscott\\desktop\\ee9-10\\ee9-10\\ee10-3\\frminvoicetotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8538181-E687-4493-B12E-4B48C4E81C97}|EE10-3\\EE10-3.csproj|solutionrelative:ee10-3\\frminvoicetotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSalesTax.cs",
+              "DocumentMoniker": "C:\\Users\\jpscott\\Desktop\\EE9-10\\EE9-10\\EE10-3\\frmSalesTax.cs",
+              "RelativeDocumentMoniker": "EE10-3\\frmSalesTax.cs",
+              "ToolTip": "C:\\Users\\jpscott\\Desktop\\EE9-10\\EE9-10\\EE10-3\\frmSalesTax.cs",
+              "RelativeToolTip": "EE10-3\\frmSalesTax.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T16:56:29.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSalesTax.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jpscott\\Desktop\\EE9-10\\EE9-10\\EE10-3\\frmSalesTax.cs",
+              "RelativeDocumentMoniker": "EE10-3\\frmSalesTax.cs",
+              "ToolTip": "C:\\Users\\jpscott\\Desktop\\EE9-10\\EE9-10\\EE10-3\\frmSalesTax.cs [Design]",
+              "RelativeToolTip": "EE10-3\\frmSalesTax.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T16:49:09.752Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmInvoiceTotal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jpscott\\Desktop\\EE9-10\\EE9-10\\EE10-3\\frmInvoiceTotal.cs",
+              "RelativeDocumentMoniker": "EE10-3\\frmInvoiceTotal.cs",
+              "ToolTip": "C:\\Users\\jpscott\\Desktop\\EE9-10\\EE9-10\\EE10-3\\frmInvoiceTotal.cs [Design]",
+              "RelativeToolTip": "EE10-3\\frmInvoiceTotal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T13:34:53.993Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmInvoiceTotal.cs",
+              "DocumentMoniker": "C:\\Users\\jpscott\\Desktop\\EE9-10\\EE9-10\\EE10-3\\frmInvoiceTotal.cs",
+              "RelativeDocumentMoniker": "EE10-3\\frmInvoiceTotal.cs",
+              "ToolTip": "C:\\Users\\jpscott\\Desktop\\EE9-10\\EE9-10\\EE10-3\\frmInvoiceTotal.cs",
+              "RelativeToolTip": "EE10-3\\frmInvoiceTotal.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAswKkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T13:35:58.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
